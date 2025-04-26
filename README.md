@@ -1,2 +1,1 @@
 # yoctoPrj
-# yoctoPrj
