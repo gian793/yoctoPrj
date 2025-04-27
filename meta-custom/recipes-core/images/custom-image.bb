@@ -7,7 +7,7 @@ IMAGE_LINGUAS = " "
 LICENSE = "MIT"
 
 inherit core-image
-inherit extrausers
+#inherit extrausers
 
 # Set rootfs to 200 MiB by defualt
 IMAGE_OVERHEAD_FACTOR ?= "1.0"
